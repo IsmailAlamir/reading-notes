@@ -35,5 +35,7 @@ Props is a special keyword in React, which stands for properties and is being us
 data with props are being passed in a uni-directional flow. (one way from parent to child).
 Furthermore, props data is read-only, which means that data coming from the parent should not be changed by child components.
 
+## Things I want to know more about
+nothing so far
 
 
