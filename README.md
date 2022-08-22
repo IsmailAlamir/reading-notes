@@ -11,6 +11,7 @@ I can keep track of my observations and questions from the reading assignments t
 ## **Code 301 - Intermediate Software Development**
 #### [Readings: Introduction to React and Components](Class-01.md)
 #### [Readings: State and Props](Class-02.md)
+#### [Readings: Passing Functions as Props](Class-03.md)
 
  
 
