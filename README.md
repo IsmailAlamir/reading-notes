@@ -12,6 +12,8 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: Introduction to React and Components](Class-01.md)
 #### [Readings: State and Props](Class-02.md)
 #### [Readings: Passing Functions as Props](Class-03.md)
+#### [Readings: React and Forms](Class-04.md)
+
 
  
 
