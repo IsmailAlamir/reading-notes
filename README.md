@@ -13,6 +13,8 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: State and Props](Class-02.md)
 #### [Readings: Passing Functions as Props](Class-03.md)
 #### [Readings: React and Forms](Class-04.md)
+#### [Readings: Putting it all together](Class-05.md)
+
 
 
  
