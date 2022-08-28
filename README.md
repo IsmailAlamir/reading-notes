@@ -15,6 +15,8 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: React and Forms](Class-04.md)
 #### [Readings: Putting it all together](Class-05.md)
 #### [Readings: NODE.JS](Class-06.md)
+#### [Readings: API Keys](Class-07.md)
+
 
 
 
