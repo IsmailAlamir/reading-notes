@@ -17,6 +17,9 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: NODE.JS](Class-06.md)
 #### [Readings: API Keys](Class-07.md)
 
+#### [Readings: Functional Programming](Class-09.md)
+
+
 
 
 
