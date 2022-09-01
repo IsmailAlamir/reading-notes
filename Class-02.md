@@ -1,3 +1,5 @@
+# State and Props
+
 I think that understanding the syntax and life-cycle of React will help me organize my thinking when programming, and this leads to an understanding of the entire syntax.
 and knowing the difference between probs and Stete also helps me to use them in the best way possible
 
