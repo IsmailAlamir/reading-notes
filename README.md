@@ -19,6 +19,8 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: APIs](Class-08.md)
 #### [Readings: Functional Programming](Class-09.md)
 #### [Readings: In memory storage](Class-10.md)
+#### [Readings: Mongo and Mongoose](Class-11.md)
+
 
 
 
