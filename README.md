@@ -20,6 +20,10 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: Functional Programming](Class-09.md)
 #### [Readings: In memory storage](Class-10.md)
 #### [Readings: Mongo and Mongoose](Class-11.md)
+#### [Readings: CRUD](Class-12.md)
+#### [Readings: More CRUD](Class-13.md)
+#### [Readings: Authentication](Class-15.md)
+
 
 
 
