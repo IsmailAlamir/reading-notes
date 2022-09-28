@@ -33,4 +33,4 @@ I can keep track of my observations and questions from the reading assignments t
  
 
 
-## **Code 401 - Intermediate Software Development**
+## **Code 401 - Advanced Software Development**
