@@ -25,15 +25,7 @@ I can keep track of my observations and questions from the reading assignments t
 #### [Readings: Authentication](Class-15.md)
 
 
-
-
-
-
-
- 
-
-
 ## **Code 401 - Advanced Software Development**
 #### [class 01 - Big O Notation](code-401-python/class-01/README.md)
-#### [class 02 - TDD ,``` __name__ == "__main__" ```,Recursion](code-401-python/class-02/README.md)
+#### [class 02 - TDD ,``` __name__ == "__main__" ```,Recursion](code-401-python/Class-02/README.md)
 
