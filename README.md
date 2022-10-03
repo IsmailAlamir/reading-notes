@@ -34,4 +34,6 @@ I can keep track of my observations and questions from the reading assignments t
 
 
 ## **Code 401 - Advanced Software Development**
-#### [Big O Notation](code-401-python/class-01/README.md)
+#### [class 01 - Big O Notation](code-401-python/class-01/README.md)
+#### [class 02 - TDD ,``` __name__ == "__main__" ```,Recursion](code-401-python/class-02/README.md)
+
