@@ -29,4 +29,6 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 01 ](code-401-python/class-01/README.md)
 #### [class 02 - TDD ,``` __name__ == "__main__" ```,Recursion](code-401-python/class-02/README.md)
 #### [class 03 - Big O Notation](code-401-python/class-03/README.md)
+#### [class 04 - Exceptions & Files](code-401-python/class-04/README.md)
+
 
