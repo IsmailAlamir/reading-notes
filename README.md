@@ -30,5 +30,6 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 02 - Testing and Modules](code-401-python/class-02/README.md)
 #### [class 03 - Big O Notation](code-401-python/class-03/README.md)
 #### [class 04 - FileIO & Exceptions](code-401-python/class-04/README.md)
+#### [class 05 - Intro to OOP](code-401-python/class-05/README.md)
 
 
