@@ -34,7 +34,7 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 06 - OOP Part 02](code-401-python/class-06/README.md)
 #### [class 07 - Data Analysis](code-401-python/class-07/README.md)
 #### [class 08 - Data Analysis with Pandas](code-401-python/class-08/README.md)
-#### [class 08 - LinkedList](code-401-python/class-09/README.md)
+#### [class 09 - LinkedList](code-401-python/class-09/README.md)
 
 
 
