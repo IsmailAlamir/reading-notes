@@ -37,6 +37,7 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 09 - LinkedList](code-401-python/class-09/README.md)
 #### [class 10 - Linear Regressions](code-401-python/class-10/README.md)
 #### [class 11 - Data Visualization](code-401-python/class-11/README.md)
+#### [class 12 - Stack and Queue](code-401-python/class-12/README.md)
 
 
 
