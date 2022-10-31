@@ -39,7 +39,4 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 11 - Data Visualization](code-401-python/class-11/README.md)
 #### [class 12 - Stack and Queue](code-401-python/class-12/README.md)
 #### [class 13 - Serverless Functions](code-401-python/class-13/README.md)
-
-
-
-
+#### [class 14 - Web Scraping](code-401-python/class-14/README.md)
