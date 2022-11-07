@@ -42,3 +42,5 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 14 - Web Scraping](code-401-python/class-14/README.md)
 #### [class 15 - Tree](code-401-python/class-15/README.md)
 #### [class 16 - Cryptography](code-401-python/class-16/README.md)
+#### [class 17 - Automation](code-401-python/class-17/README.md)
+
