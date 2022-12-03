@@ -46,3 +46,4 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 18 ](code-401-python/class-19/README.md)
 #### [class 19 - Intro to Django](code-401-python/class-19/README.md)
 #### [class 20 - Django Models](code-401-python/class-20/README.md)
+#### [class 22 - Django CRUD and Forms](code-401-python/class-22/README.md)
