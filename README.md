@@ -48,3 +48,4 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 20 - Django Models](code-401-python/class-20/README.md)
 #### [class 22 - Django CRUD and Forms](code-401-python/class-22/README.md)
 #### [class 23 - Django Custom User](code-401-python/class-23/README.md)
+#### [class 24 - Hashtabels](code-401-python/class-24/README.md)
