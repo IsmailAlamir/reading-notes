@@ -50,4 +50,4 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 23 - Django Custom User](code-401-python/class-23/README.md)
 #### [class 24 - Hashtabels](code-401-python/class-24/README.md)
 #### [class 25 - Django REST Framework & Docker](code-401-python/class-25/README.md)
-#### [class 25 - Permissions & Postgresql](code-401-python/class-26/README.md)
+#### [class 26 - Permissions & Postgresql](code-401-python/class-26/README.md)
