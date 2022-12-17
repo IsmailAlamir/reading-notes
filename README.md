@@ -52,3 +52,4 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 25 - Django REST Framework & Docker](code-401-python/class-25/README.md)
 #### [class 26 - Permissions & Postgresql](code-401-python/class-26/README.md)
 #### [class 27 - Graphs](code-401-python/class-27/README.md)
+#### [class 28 - Authentication & Production Server](code-401-python/class-28/README.md)
