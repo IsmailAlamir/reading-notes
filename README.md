@@ -56,3 +56,4 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 29 - API Deployment](code-401-python/class-29/README.md)
 #### [class 31 - React Review](code-401-python/class-31/README.md)
 #### [class 32 - Intro to Next.js & Tailwind CSS](code-401-python/class-32/README.md)
+#### [class 33 - Next- Forms and Conditional Rendering ](code-401-python/class-33/README.md)
