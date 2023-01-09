@@ -59,4 +59,6 @@ I can keep track of my observations and questions from the reading assignments t
 #### [class 33 - Next- Forms and Conditional Rendering ](code-401-python/class-33/README.md)
 #### [class 34 - Context API ](code-401-python/class-34/README.md)
 #### [class 35 - Authentication ](code-401-python/class-35/README.md)
+#### [class 36 - Data Fetching ](code-401-python/class-36/README.md)
+
 
